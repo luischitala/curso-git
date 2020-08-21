@@ -9,3 +9,4 @@ Un glob increíble para el gurso de Git y Github de Platzi.
 * El verdadero amor por las buenas prácticas
 * Creato por chitala softs
 * Incluye ejemplos Windows
+* Disponible para todas las edades
