@@ -8,3 +8,4 @@ Un glob increíble para el gurso de Git y Github de Platzi.
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Creato por chitala softs
+* Incluye ejemplos Windows
